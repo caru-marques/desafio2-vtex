@@ -1,0 +1,68 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "photo": "https://a-static.mlcdn.com.br/1500x1500/iphone-12-pro-apple-256gb-azul-pacifico-61-cam-tripla-12mp-ios/magazineluiza/155607100/2592856f066026aae60b1a4eeb39cf54.jpg",
+            "name": "IPhone 12",
+            "description": "iPhone 12 Pro Apple 256GB Azul-Pacífico 6,1",
+            "price": "R$ 7.559,97"
+        },
+        {
+            "id": 2,
+            "photo": "https://a-static.mlcdn.com.br/1500x1500/smartphone-samsung-galaxy-s21-ultra-256gb-preto-5g-12gb-ram-tela-68-cam-quadrupla-selfie-40mp/magazineluiza/155620700/f14bf8a97e79fe00020ef08e5e0daf6d.jpg",
+            "name": "Samsung Galaxy S21",
+            "description": "Samsung Galaxy S21 Ultra 256GB Preto 5G 6,8",
+            "price": "R$ 7.499,00"
+        },
+        {
+            "id": 3,
+            "photo": "https://a-static.mlcdn.com.br/618x463/smartphone-motorola-moto-g100-256gb-luminous-sky-5g-12gb-ram-67-cam-quadrupla-selfie-dupla/magazineluiza/155626600/2c9d236e219056001332d3011c1d5b77.jpg",
+            "name": "Motorola Moto G100",
+            "description": "Motorola Moto G100 256GB Luminous Sky - 5G 6,7",
+            "price": "R$ 2.933,10"
+        },
+        {
+            "id": 4,
+            "photo": "https://a-static.mlcdn.com.br/1500x1500/macbook-air-133-apple-m1-8gb-256gb-ssd-cinza-espacial/magazineluiza/227625300/9fa7d0ee448f7dcaf3c0cb9557ae1d15.jpg",
+            "name": "Macbook Air",
+            "description": "iPhone 12 Pro Apple 256GB Azul-Pacífico 6,1",
+            "price": "R$ 7.559,97"
+        },
+        {
+            "id": 5,
+            "photo": "https://a-static.mlcdn.com.br/1500x1500/macbook-pro-16-apple-intel-core-i9-16gb-ram-1tb-ssd-cinza-espacial/magazineluiza/226562600/71ff9835dd9bd7dfbc650d50a8ccf722.jpg",
+            "name": "MacBook Pro",
+            "description": "MacBook Pro 16 Apple Intel Core i9 16GB RAM - 1TB SSD Cinza-espacial",
+            "price": "R$ 25.649,05"
+        },
+        {
+            "id": 6,
+            "photo": "https://a-static.mlcdn.com.br/1500x1500/notebook-samsung-book-np550xda-ks1br-intel-core-i7-8gb-256gb-ssd-156-full-hd-led-windows-10/magazineluiza/228721800/04c0a26aae436832d79772a84578ccf7.jpg",
+            "name": "Samsung Book",
+            "description": "Samsung Book NP550XDA-KS1BR Intel Core i7 - 8GB 256GB SSD 15,6” Full HD LED Windows 10",
+            "price": "R$ 4.749,05"
+        },
+        {
+            "id": 7,
+            "photo": "https://www.outerspace.com.br/wp-content/uploads/2020/06/ps5-2.jpg",
+            "name": "PlayStation 5",
+            "description": "Console PlayStation 5 com Controle sem fio",
+            "price": "R$ 5.559,97"
+        },
+        {
+            "id": 8,
+            "photo": "https://http2.mlstatic.com/D_NQ_NP_2X_611932-MLB40172896170_122019-F.webp",
+            "name": "Xbox One",
+            "description": "Xbox One S 4k Branco 500gb + 1 Controle",
+            "price": "R$ 2.399,97"
+        },
+        {
+            "id": 9,
+            "photo": "https://http2.mlstatic.com/D_NQ_NP_2X_847299-MLA40692342173_022020-F.webp",
+            "name": "Nintendo Switch",
+            "description": "Nintendo Switch 32GB Standard cor vermelho-néon, azul-néon e preto",
+            "price": "R$ 2.529,97"
+        }
+       
+    ]
+}
