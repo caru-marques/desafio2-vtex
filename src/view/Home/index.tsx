@@ -12,6 +12,7 @@ interface IProduct {
     price: number;
 }
 
+
 const Home: React.FC = () => {
     const [data, setData] = useState<IProduct[]>([]);
     const [cart, setCart] = useState<IProduct[]>([]);
