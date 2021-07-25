@@ -35,10 +35,7 @@ const Home: React.FC = () => {
           <div className="nav">
             <div>
             <img src={Logo} alt="Logo" width="200px" height="auto" />
-            </div>
-            <div>
-                <link rel="../../Clients/index.tsx" />
-            </div>
+            </div>            
             <div className="cart">
                 <img src={Cart} alt="carrinho" width="50px" height="auto" />
                 <span>
@@ -46,6 +43,18 @@ const Home: React.FC = () => {
                 </span>                
             </div>
           </div>
+            <div className="cadastro">
+              <div className="texto">
+                <p>RECEBA TODAS AS NOVIDADES E FIQUE POR DENTRO DAS PROMOÇÕES</p>
+              </div>
+              <div id="content">
+                <form id="form">
+                    <input className="botao" type="text" placeholder="nome" id="nome"/>
+                    <input className="botao" type="text" placeholder="email" id="email"/>
+                    <input className="submit" type="submit" value="CADASTRAR"/>
+                </form>
+              </div>
+          </div>         
           <section>
               { data.map ( (prod, index) => (
                 <div className="product-content" key ={prod.id}>
